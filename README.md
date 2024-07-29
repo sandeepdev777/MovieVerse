@@ -24,14 +24,16 @@ follow these step-by-step instructions.
 In order to install and run this project locally, you would need to have the following installed on your local machine.
 
 [Node.js](https://nodejs.org/en/)
+
 [NPM](https://docs.npmjs.com/getting-started)
+
 [Git](https://git-scm.com/downloads)
 
 ⚙️ Installation and Run Locally
 
 Step 0:
 
-Note ‼️ the application uses Clerk for Authentication and User Management, therefore, you need to create Clerk account [here](https://dashboard.clerk.com/sign-up) and sets the CLERK_PUBLISHABLE_KEY and CLERK_SECRET_KEY environment variables in .env file.
+Note ‼️ the application uses [NextAuth](https://next-auth.js.org/) for Authentication and User Management.
 
 Note ‼️ the application uses Prisma for ORM, therefore, you need to create Prisma account.
 
