@@ -1,10 +1,10 @@
 🌐 Live Demo
 
-Explore the live demonstration of the project: https://movie-verse-three.vercel.app/
+Explore the live demonstration of the project: [MovieVerse](https://movie-verse-three.vercel.app/)
 
 📝 Description
 
-MovieVerse is actually a clone of OTT platform Netflix built with Next.js 14,Typescriptv,Next Auth, Tailwind Css,
+MovieVerse is a clone of OTT platform Netflix built with Next.js 14,Typescriptv,Next Auth, Tailwind Css,
 ShadCn, Prisma, Postgres , Neon Db. It is an video streaming platform which contains various movies of different 
 categories. In the app the movie videos and images fetched from several sites like TMDB. 
 
@@ -23,15 +23,15 @@ follow these step-by-step instructions.
  
 In order to install and run this project locally, you would need to have the following installed on your local machine.
 
-Node.js
-NPM
-Git
+[Node.js](https://nodejs.org/en/)
+[NPM](https://docs.npmjs.com/getting-started)
+[Git](https://git-scm.com/downloads)
 
 ⚙️ Installation and Run Locally
 
 Step 0:
 
-Note ‼️ the application uses Clerk for Authentication and User Management, therefore, you need to create Clerk account here and sets the CLERK_PUBLISHABLE_KEY and CLERK_SECRET_KEY environment variables in .env file.
+Note ‼️ the application uses Clerk for Authentication and User Management, therefore, you need to create Clerk account [here](https://dashboard.clerk.com/sign-up) and sets the CLERK_PUBLISHABLE_KEY and CLERK_SECRET_KEY environment variables in .env file.
 
 Note ‼️ the application uses Prisma for ORM, therefore, you need to create Prisma account.
 
@@ -63,7 +63,9 @@ Environment variables[^6] can be used for configuration. They must be set before
 
 Environment variables are variables that are set in the operating system or shell, typically used to configure programs.
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
 
