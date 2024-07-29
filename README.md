@@ -6,7 +6,7 @@ Explore the live demonstration of the project: https://movie-verse-three.vercel.
 
 MovieVerse is actually a clone of OTT platform Netflix built with Next.js 14,Typescriptv,Next Auth, Tailwind Css,
 ShadCn, Prisma, Postgres , Neon Db. It is an video streaming platform which contains various movies of different 
-categories. In the app the movie videos and images fetched fronm several sites like TMDB. 
+categories. In the app the movie videos and images fetched from several sites like TMDB. 
 
 ✨ Technologies Used
 
